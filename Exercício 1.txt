@@ -28,3 +28,6 @@ programa {
     
   }
 }
+
+
+Sei que não está como vocês pediram no exercício, mas eu estou muito confusa com o portugol e foi esse código que eu consegui cirar, mesmo ele ainda não estando 100% correto espero conseguir arruma-lo mais para frente
