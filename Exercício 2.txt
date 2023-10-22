@@ -1,0 +1,47 @@
+
+
+programa {
+  funcao inicio() {
+   inteiro var  i, j, quadrado
+
+Conjunto mat[3] [3] de inteiros
+
+para (i <- 1 ate 3 faca) 
+inicio
+
+ para (j <- 1 ate 3)
+
+ faca
+
+ inicio  
+
+   leia mat[i,j]
+
+ fim_se
+
+fim_se
+
+para (i <- 1 ate 3) faca
+
+inicio
+
+  para (j <- 1 ate 3) faca
+
+  inicio
+
+  quadrado <- mat[i,j]*mat[i,j]
+
+  escreva mat[i,j]
+
+  escreva quadrado  
+
+  fim_se
+
+fim_se
+
+fim_algoritmo
+    
+  }
+}
+
+Eu tive que ver videos na internet e ainda sim não consegui oegar muito bem como é que faz :(
